@@ -99,32 +99,109 @@ export const projects: Project[] = [
     skills: ['Power BI', 'DAX', 'Data Modeling', 'Data Visualziation'],
     category: 'Power BI',
     link: 'https://app.powerbi.com/groups/me/reports/b35ed9de-eced-4344-9b4b-6ce6dc3000d2/5aa2055e9dd2d8a35a4c?experience=power-bi'
+  },
+  {
+    title: 'Titanic Survivors Prediction Model',
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743657382/titanic_kpx9kt.png',
+    video: '/powerbi-project.mp4',
+    description: 'Built Machine Learning Model for predicting survivors of titanic incident',
+    skills: ['Python', 'Data Cleaning', 'Data Preprocessing', 'EDA', 'Feature Engineering', 'Logistic Regression', 'RandomForestClassifier'],
+    category: 'Python',
+    link: 'https://github.com/rahmankhan2241/Machine-Learning-Model-For-Titanic-Dataset'
+  },
+  {
+    title: 'House Price Prediction Kaggle Competition',
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743657987/house_price_zjw8ny.png',
+    video: '/powerbi-project.mp4',
+    description: 'Built Machine Learning Model for predicting House Price and acheived 90+ % accuracy',
+    skills: ['Python', 'Data Cleaning', 'Data Preprocessing', 'EDA', 'Feature Engineering', 'Machine Learning alogirthms'],
+    category: 'Python',
+    link: 'https://github.com/rahmankhan2241/House-Price-Prediction-Kaggle-Competition'
+  },
+  {
+    title: "Amazon's Laptop Price Scraping",
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743658536/Web_Scarping_cwcoqy.png',
+    video: '/powerbi-project.mp4',
+    description: "Scarping Laptop's Price From Amazon Using Beautifulsoup",
+    skills: ['Python', 'Data Cleaning', 'Data Preprocessing', 'EDA', 'Feature Engineering', 'Machine Learning alogirthms'],
+    category: 'Python',
+    link: 'https://github.com/rahmankhan2241/Amazon-s-Laptop-Web-Scraping'
+  },
+  {
+    title: "Pizza Sales Analysis Using MySQL",
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743658919/Pizza_Sales_vtkdza.png',
+    video: '/powerbi-project.mp4',
+    description: "Analyzing Sales Price of Pizza using basic to advance MySQL concepts",
+    skills: ['MySQL', 'CTE', 'Subquerry', 'group by', 'where & having'],
+    category: 'SQL',
+    link: 'https://github.com/rahmankhan2241/Pizza-Sales-Project-MySQL'
+  },
+  {
+    title: "Zomato Sales Case Study with MySQL",
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743659161/zomato_case_study_grmk5k.png',
+    video: '/powerbi-project.mp4',
+    description: "Perform advance SQL queries to answer the require info",
+    skills: ['MySQL', 'CTE', 'Subquerry', 'group by', 'Case Study', 'where & having'],
+    category: 'SQL',
+    link: 'https://github.com/rahmankhan2241/Zomato_Analysis/blob/main/Zomato_Sql_Project.sql'
+  },
+  {
+    title: "Analysis on Netflix Data using Python",
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743659480/Neflix_l0xac3.png',
+    description: "Used Python and it's powerful libraries to analyse the netflix data from 2012 to 2021",
+    skills: ['Python','Data Cleaning', 'Pandas', 'Matplotlib', 'Seaborn', 'Numpy', 'Data Visualization'],
+    category: 'Python',
+    link: 'https://github.com/rahmankhan2241/Netflix-Analysis/blob/main/Netflix.ipynb'
+  },
+  {
+    title: "Amazon Inventory Management and Dashboard",
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743659787/Amazon_Power_BI_fhx1or.png',
+    description: "Used Python and it's powerful libraries to analyse the netflix data from 2012 to 2021",
+    skills: ['Power BI', 'Advance Card Visuals', 'DAX', 'Data Modeling', 'Data Visualziation'],
+    category: 'Power BI',
+    link: 'https://app.powerbi.com/groups/me/reports/48065f1e-9bae-4338-8574-c4c38b06735a/ReportSection?experience=power-bi'
+  },
+  {
+    title: "Supply Chain Dashboard",
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743660124/supply_chain_yvb7d3.png',
+    description: "Used Python and it's powerful libraries to analyse the Supply Chain Data",
+    skills: ['Power BI', 'Advance Card Visuals', 'DAX', 'Data Modeling', 'Data Visualziation'],
+    category: 'Power BI',
+    link: 'https://app.powerbi.com/groups/me/reports/0c75bca6-9edf-4985-87d8-2c398c7f49d9/ReportSection?experience=power-bi'
   }
 ];
 
 export const certificates: Certificate[] = [
   {
-    title: 'Data Science Professional Certificate',
-    issuer: 'DataCamp',
-    logo: '/datacamp-logo.png',
-    date: 'June 2023',
-    skills: ['Python', 'Data Analysis', 'Machine Learning'],
-    image: '/certificate1.jpg'
-  },
-  {
-    title: 'Advanced SQL for Data Analysis',
+    title: 'Python for Data Science',
     issuer: 'Udemy',
-    logo: '/udemy-logo.png',
-    date: 'March 2023',
-    skills: ['SQL', 'Database Management'],
-    image: '/certificate2.jpg'
+    logo: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743660428/udemy_logo_tplqzf.png',
+    date: 'June 2023',
+    skills: ['Python', 'Numpy', 'Pandas','Seaborn'],
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743660702/python_certificate_ms2fl7.png'
   },
   {
-    title: 'Power BI Desktop for Business Intelligence',
-    issuer: 'Coursera',
-    logo: '/coursera-logo.png',
-    date: 'January 2023',
-    skills: ['Power BI', 'Data Visualization', 'DAX'],
-    image: '/certificate3.jpg'
+    title: 'Python Basics',
+    issuer: 'Hacker Rank',
+    logo: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743660861/hacker_rank_logo_qzuqym.png',
+    date: 'March 2023',
+    skills: ['MySQL', 'Problem Solving'],
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743661044/SQL_hacker_rank_loay10.png'
+  },
+  {
+    title: 'MySQL Advanced',
+    issuer: 'Hacker Rank',
+    logo: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743660861/hacker_rank_logo_qzuqym.png',
+    date: 'October 2024',
+    skills: ['MySQL', 'CTE', 'Subquery', 'Windows Functions', 'Problem Solving'],
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743661044/SQL_hacker_rank_loay10.png'
+  },
+  {
+    title: 'MySQL Advanced',
+    issuer: 'Hacker Rank',
+    logo: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743660861/hacker_rank_logo_qzuqym.png',
+    date: 'October 2024',
+    skills: ['Python', 'Linear Regression', 'Logistic Regression', 'Ensemble Techniques', 'EDA', 'Feature Engineering'],
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743661352/Machine_Learning_IBM_Certificate_fhzkmb.png'
   }
 ];
