@@ -99,15 +99,6 @@ export const projects: Project[] = [
     skills: ['Power BI', 'DAX', 'Data Modeling', 'Data Visualziation'],
     category: 'Power BI',
     link: 'https://app.powerbi.com/groups/me/reports/b35ed9de-eced-4344-9b4b-6ce6dc3000d2/5aa2055e9dd2d8a35a4c?experience=power-bi'
-  },
-  {
-    title: 'Database Optimization',
-    image: '/sql-project.jpg',
-    video: '/sql-project.mp4',
-    description: 'SQL database optimization project that improved query performance by 40%.',
-    skills: ['SQL', 'Database Design', 'Performance Tuning'],
-    category: 'SQL',
-    link: 'https://example.com/sql-project'
   }
 ];
 
