@@ -181,6 +181,22 @@ export const certificates: Certificate[] = [
     image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743660702/python_certificate_ms2fl7.png'
   },
   {
+    title: 'Excel',
+    issuer: 'Simplilearn',
+    logo: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743674849/simplilearn_gxjdj6.png',
+    date: 'June 2023',
+    skills: ['Excel', 'Data Visualization', 'Data Cleaning','Pivot Table', 'Pivot Chart'],
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743674810/Excel_rdgqxe.png'
+  },
+  {
+    title: 'Data Visualization With Power BI',
+    issuer: 'Microsoft',
+    logo: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743675067/Microsoft_kkgqrs.png',
+    date: 'June 2023',
+    skills: ['Power BI', 'Data Visualization', 'Data Cleaning','Power Query', 'DAX'],
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743675017/Power_BI_Certificate_nef4t5.png'
+  },
+  {
     title: 'Python Basics',
     issuer: 'Hacker Rank',
     logo: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743660861/hacker_rank_logo_qzuqym.png',
@@ -197,9 +213,17 @@ export const certificates: Certificate[] = [
     image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743661044/SQL_hacker_rank_loay10.png'
   },
   {
-    title: 'MySQL Advanced',
+    title: 'MySQL Basics',
     issuer: 'Hacker Rank',
     logo: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743660861/hacker_rank_logo_qzuqym.png',
+    date: 'October 2024',
+    skills: ['MySQL', 'CTE', 'Subquery', 'Windows Functions', 'Problem Solving'],
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743674660/sql_basics_hackerank_mdk3vx.png'
+  },
+  {
+    title: 'Exploratory Data Analysis For Machine Learning',
+    issuer: 'IBM',
+    logo: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743674658/IBM_exhmty.png',
     date: 'October 2024',
     skills: ['Python', 'Linear Regression', 'Logistic Regression', 'Ensemble Techniques', 'EDA', 'Feature Engineering'],
     image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743661352/Machine_Learning_IBM_Certificate_fhzkmb.png'
