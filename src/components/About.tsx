@@ -8,7 +8,7 @@ export function About() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
           <div className="relative overflow-hidden rounded-xl group">
             <img
-              src="https://res.cloudinary.com/dkptwn7nn/image/upload/v1747028198/portfolio_image_1_i6l1gb.jpg"
+              src="https://res.cloudinary.com/dkptwn7nn/image/upload/v1747028198/portfolio_image_2_se6n2p.jpg"
               alt="Shane Rahman"
               loading="lazy"
               className="w-full h-auto transition-transform duration-500 group-hover:scale-110"

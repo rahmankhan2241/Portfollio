@@ -83,7 +83,7 @@ export function Hero() {
             {/* Profile image container with animation */}
             <div className="w-full h-full rounded-full overflow-hidden border-4 border-primary p-2 animate-[pulse-slow_4s_ease-in-out_infinite]">
               <img 
-                src="https://res.cloudinary.com/divva13vc/image/upload/v1743057433/Ahtesham_Portfollio/idu6zud2dc6djdicfrdi.png" 
+                src="https://res.cloudinary.com/dkptwn7nn/image/upload/v1747028198/portfolio_image_1_i6l1gb.jpg" 
                 alt="Shane Rahman" 
                 className="w-full h-full object-cover rounded-full"
               />
