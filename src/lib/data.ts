@@ -74,6 +74,24 @@ export const experiences: Experience[] = [
 
 export const projects: Project[] = [
   {
+    title: 'Uber Traffic Dashboard Power BI',
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1745656582/uber_pkusvt.png',
+    video: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1745656582/uber_pkusvt.png',
+    description: 'Power BI Dashboard Visuals for Analyzing Uber Dataset',
+    skills: ['DAX', 'Power BI', 'Data Modeling','Power Query', 'Data Analysis', 'Data Visualization'],
+    category: 'Power BI',
+    link: 'https://app.powerbi.com/groups/me/reports/54bf7b8a-d060-4083-ad90-570c08902fe3/7b8e21da75a7e6dc0e41?experience=power-bi'
+  },
+  {
+    title: 'KSR Dashboard For Sales Analysis',
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1747026068/KSR_Dashboard_c7s03o.png',
+    video: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1747026068/KSR_Dashboard_c7s03o.png',
+    description: 'Power BI Dashboard Visuals for Analyzing Sales Data',
+    skills: ['DAX', 'Power BI', 'Data Modeling','Power Query', 'Data Analysis', 'Data Visualization'],
+    category: 'Power BI',
+    link: 'https://app.powerbi.com/groups/me/reports/340736d3-d2b1-474d-9a5a-ce0c1dee6a7b/8b108507b8855d6c2a92?experience=power-bi'
+  },
+  {
     title: 'Social Media Traffic Analysis Dashboard',
     image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1743135202/Social_Media_Dashboard_image_yg4drk.png',
     video: 'https://res.cloudinary.com/dkptwn7nn/video/upload/v1743138584/Social_Media_Dashboard_mqawpi.mp4',
