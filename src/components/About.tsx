@@ -17,12 +17,12 @@ export function About() {
           </div>
           <div className="space-y-4">
             <h3 className="text-2xl font-semibold">Shane Rahman</h3>
-            <p className="text-muted-foreground">"
+            <p className="text-muted-foreground">
               Hey there! I'm Shane Rahman, originally from Uttar Pradesh. For the past two years, I've been residing in Bengaluru. 
               I graduated in 2023 with a B.Sc. in Applied Mathematics & Science. After graduation, I joined Atem R Tech Solutions 
-              as a Data Specialist and worked there for one year. With a strong interest in data analytics, I then joined 
+              as a Data Analyst and worked there for 1 year. With a strong interest in data analytics, I then joined 
               K12 Techno Services as a Data Analyst Intern. It's been 10 months here, and I've gained significant hands-on experience 
-              in data analytics.""
+              in Data analytics.
             </p>
             <div className="grid grid-cols-2 gap-4 mt-6">
               <div>
