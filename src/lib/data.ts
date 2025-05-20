@@ -83,6 +83,15 @@ export const projects: Project[] = [
     link: 'https://app.powerbi.com/groups/me/reports/54bf7b8a-d060-4083-ad90-570c08902fe3/7b8e21da75a7e6dc0e41?experience=power-bi'
   },
   {
+    title: 'Laptop And Mobile Sales Dashboard',
+    image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1747743506/Screenshot_2025-05-20_112745_rcprf9.png',
+    video: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1745656582/uber_pkusvt.png',
+    description: 'Power BI Dashboard Visuals for Analyzing Electronic devices Sales',
+    skills: ['DAX', 'Microsoft Fabric','Lakehouse','Pyspark','Power BI', 'Data Modeling','Power Query', 'Data Analysis', 'Data Visualization'],
+    category: 'Power BI',
+    link: 'https://app.powerbi.com/groups/740be813-857f-4bc7-88db-1f87f1e35c7c/reports/93ac4bc6-ac61-448b-8aa0-bd6967b1cd7b/de22dd1d9acb6cbd0e46?experience=power-bi'
+  },
+  {
     title: 'KSR Dashboard For Sales Analysis',
     image: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1747026068/KSR_Dashboard_c7s03o.png',
     video: 'https://res.cloudinary.com/dkptwn7nn/image/upload/v1747026068/KSR_Dashboard_c7s03o.png',
