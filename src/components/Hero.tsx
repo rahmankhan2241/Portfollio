@@ -41,7 +41,7 @@ export function Hero() {
               Shane Rahman
             </h1>
             <h2 className="text-2xl sm:text-3xl md:text-4xl mt-4 text-muted-foreground">
-              <TypeWriter texts={["Data Analyst", "YouTuber", "Data Scientist", "Content Creator"]} />
+              <TypeWriter texts={["Data Analyst", "YouTuber", "Content Creator"]} />
             </h2>
           </div>
           
